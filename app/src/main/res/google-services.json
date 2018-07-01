@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "521953839270",
+    "firebase_url": "https://penmyfeelings-1530267830133.firebaseio.com",
+    "project_id": "penmyfeelings-1530267830133",
+    "storage_bucket": "penmyfeelings-1530267830133.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:521953839270:android:47ef7c0a9e0e0ec4",
+        "android_client_info": {
+          "package_name": "com.example.mokhles.penmyfeelings"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "521953839270-qcja8slrc8124e3u0efp14msd15aae39.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDPrNpfcBpCM-3NQ_MdHzEGxqMqJqYzhv4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
